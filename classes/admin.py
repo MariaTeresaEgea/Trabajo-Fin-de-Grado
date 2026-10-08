@@ -32,5 +32,3 @@ class ClassAdmin(admin.ModelAdmin):
         "teacher__user__last_name",
     )
     
-
-# Register your models here.
